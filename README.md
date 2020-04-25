@@ -39,7 +39,7 @@ Please refer to the "parts modification" and "assembly chapters first since most
    * The thickness of the top metal part shouldn't be lower than 1.5mm, otherwise the standoffs on which the tines lay will be in contact with the top soundboard instead of the top metal part and will roll around even under pressure, detuning your kalimba. The thickness of the bottom metal part doesn't matter at all, it can be cut from quite thin metal since no extreme pressures are exerted on it. 
    * Both of these parts can be replaced with laser-cut plywood, but I don't think than plywood could sustain the extreme pressure exerted by the tines and nuts they are pressed against in case of the top part. The material of the bottom metal part does not matter at all, you can even 3d-print it if you want to, I've ordered plasma-cut steel for it mostly because the cost won't increase significantly and just because I can. I'd even recommend to make it from some other, lighter material to make the top soundboard lighter, since the heavier it is, the lower the volume will go.
 3. Standoffs on which the tines lay can be replaced easily, juts make sure that the total length is 180mm. It would be even better to order such lengths that tiny gaps will be in places where the tines lay, but I'm not sure about that since I haven't tried it.
-4. For all that I know you could even 3d-print all the listed parts, but watch your infill ratio (inner cavities will make the sustain much lower) consider the extreme pressure the tines exert.
+4. For all that I know you could even 3d-print all the listed parts, but watch your infill ratio (inner cavities will make the sustain much lower) and consider the extreme pressure the tines exert.
 
 # Assembly
 
