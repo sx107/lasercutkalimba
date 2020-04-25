@@ -87,7 +87,7 @@ Just mount the assembled top soundboard on top of the side panels with 8 M3 scre
 
 # Tuning
 
-To tune the kalimba, just move the tines to the desired position, and after you are done with one bracket tune it and move to next one. You actually should start with the leftmost and rightmost ones and only then proceed to the center ones, but that will make the tuning harder and doesn't matter that much in the end if you've chosen proper materials and thickness to withstand the pressure.
+To tune the kalimba, just move the tines to the desired position, and after you are done with one bracket tune it and move to next one. You actually should start with the leftmost and rightmost ones and only then proceed to the center ones, but that will make the tuning harder and doesn't matter that much in the end if you've chosen proper materials and thickness to withstand the pressure. When you are done, cut to size the tines from the back side.
 
 If you have installed any pickups, the tuning job will be a lot easier with a tuner. However, the higher notes were in my case too short and dirty for the tuner to recognize, so you'll probably have to use your ear - tune it to a reference instrument (like a piano app) or, if you are one of those geniuses - use your perfect pitch superpower. I'm jealous.
 
