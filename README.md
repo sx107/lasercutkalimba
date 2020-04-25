@@ -4,6 +4,8 @@ A diy kalimba with laser-cut, plasma-cut and 3d-printed parts.
 
 [Link to the youtube video of building this kalimba](https://youtu.be/Hq4BJ8A1Kc0)
 
+![Assembled kalimba](assembled.PNG)
+
 # List of parts
 
 Please refer to the "parts modification" and "assembly chapters first since most of these parts can be changed a bit.
